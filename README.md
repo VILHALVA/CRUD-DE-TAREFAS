@@ -64,6 +64,7 @@ Este é um aplicativo de lista de tarefas simples em linha de comando desenvolvi
 - Entendemos que para manipular arquivos com essas Tecnologias e linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE TYPESCRIPT](https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT)
+* [CURSO DE JSON](https://github.com/VILHALVA/CURSO-DE-JSON)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
