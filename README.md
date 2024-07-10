@@ -26,22 +26,23 @@ Este é um aplicativo de lista de tarefas simples em linha de comando desenvolvi
 1. **Instalação das Dependências:**
     Certifique-se de que você tenha o Node.js instalado em seu sistema. Em seguida, navegue até o diretório onde o código-fonte do aplicativo está localizado e execute o seguinte comando para instalar as dependências:
     ```bash
-    npm install -y
+    npm install 
     ```
 
-2. **Copilando:**
-    Após instalar as dependências, compile o arquivo TypeScript (CODIGO.ts) para JavaScript usando o TypeScript Compiler (tsc):
+2. **Executando o APP:**
+    Agora execute o seguinte comando para compilar o TypeScript em JavaScript e iniciar o aplicativo:
+
+  - Para usar o `NODE`, inicie o bot com o seguinte comando:
     ```bash
-    npx tsc CODIGO.ts
+    npm start
     ```
 
-3. **Executando:**
-    Execute o aplicativo pelo NODEJS digitando:
+    - Para usar o `NODEMON`, inicie o bot com o seguinte comando:
     ```bash
-    node CODIGO.js
+    npm test
     ```
 
-4. **Interagindo com o Aplicativo**:
+3. **Interagindo com o Aplicativo**:
    Depois de iniciar o aplicativo, você verá um menu com as seguintes opções:
 
    ```
@@ -53,7 +54,7 @@ Este é um aplicativo de lista de tarefas simples em linha de comando desenvolvi
    5. Sair
    ```
 
-5. **Selecionando Opções**:
+4. **Selecionando Opções**:
    - Para exibir a lista de tarefas, digite `1` e pressione Enter.
    - Para adicionar uma nova tarefa, digite `2`, pressione Enter e siga as instruções.
    - Para marcar uma tarefa como concluída, digite `3`, pressione Enter e siga as instruções.
