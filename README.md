@@ -32,12 +32,12 @@ Este é um aplicativo de lista de tarefas simples em linha de comando desenvolvi
 2. **Executando o APP:**
     Agora execute o seguinte comando para compilar o TypeScript em JavaScript e iniciar o aplicativo:
 
-  - Para usar o `NODE`, inicie o bot com o seguinte comando:
+  - Para usar o `NODE`, inicie com o seguinte comando:
     ```bash
     npm start
     ```
 
-    - Para usar o `NODEMON`, inicie o bot com o seguinte comando:
+    - Para usar o `NODEMON`, inicie com o seguinte comando:
     ```bash
     npm test
     ```
